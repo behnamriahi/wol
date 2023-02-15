@@ -3,9 +3,11 @@
 - Tested on Ubuntu 20
 
 # How to use
-`git clone https://gitlab.com/BehnamRiahi/wol.git`
-`cd wol`
-`./wol.sh`
+```bash
+git clone https://gitlab.com/BehnamRiahi/wol.git
+cd wol
+./wol.sh
+```
 
 #  MIT
 Copyleft is licensed under the [MIT license.](LICENSE.md)
